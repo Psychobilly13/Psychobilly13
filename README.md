@@ -1,4 +1,6 @@
 // psychobilly is rockabilly darkside
+// OTMAPP
+// Satan save the Psychobilly
 
 const rockabilly = require("./1950s.js");
 const punk = require("./1960s.js");
@@ -9,6 +11,3 @@ function rockabillyPsychosis(rockabilly, punk) {
 }
 
 const purePsychobilly = rockabillyPsychosis(rockabilly, punk);
-
-// OTMAPP
-// Satan save the Psychobilly
