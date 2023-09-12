@@ -14,3 +14,6 @@ const purePsychobilly = rockabillyPsychosis(rockabilly, punk);
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=psychobilly13&skills=Vue,C%2B%2B,C%23,SCSS,Svelte&width=820"
 />
 
+<img
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=psychobilly13&skills=JavaScript,TypeScript&show-other-skills=true"
+/>
