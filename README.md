@@ -10,3 +10,4 @@ function rockabillyPsychosis(rockabilly, punk) {
 
 const purePsychobilly = rockabillyPsychosis(rockabilly, punk);
 
+https://cr-skills-chart-widget.azurewebsites.net/api/api?username=psychobilly13
