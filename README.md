@@ -11,5 +11,5 @@ function rockabillyPsychosis(rockabilly, punk) {
 const purePsychobilly = rockabillyPsychosis(rockabilly, punk);
 
 <img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=psychobilly13&bg=%23363b5c&skills=JavaScript,TypeScript,Go,Python"
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=psychobilly13&bg=%23396346c&skills=JavaScript,TypeScript,Go,Python"
 />
