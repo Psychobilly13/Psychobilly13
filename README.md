@@ -1,3 +1,4 @@
+```javascript
 // psychobilly is rockabilly darkside
 
 const rockabilly = require("./1950s.js");
@@ -9,6 +10,7 @@ function rockabillyPsychosis(rockabilly, punk) {
 }
 
 const purePsychobilly = rockabillyPsychosis(rockabilly, punk);
+```
 
 <img
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=psychobilly13&bg=%23322a78&skills=JavaScript,TypeScript,Go,Python"
