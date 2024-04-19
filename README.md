@@ -1,6 +1,6 @@
 ```javascript
 // psychobilly is rockabilly darkside
-// stay psycho!!!!
+// stay true stay psycho!!!!
 
 const rockabilly = require("./1950s.js");
 const punk = require("./1960s.js");
