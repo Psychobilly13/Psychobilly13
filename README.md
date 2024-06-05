@@ -1,3 +1,4 @@
+<div style="background-color: #001f3f; padding: 20px; border-radius: 10px;">
 <p align="left">
   <img src="https://raw.githubusercontent.com/archlinux/.github/main/profile/archlinux-logo-dark-scalable.svg" alt="Arch Linux" width="120"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/>
@@ -12,9 +13,9 @@
   <img src="https://vitejs.dev/logo.svg" alt="Vite" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="Vim" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
 </p>
+</div>
 
 ```javascript
 // psychobilly is rockabilly darkside
