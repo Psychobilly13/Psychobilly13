@@ -3,6 +3,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/>
+  <img src="https://avatars.githubusercontent.com/u/1529926?s=200&v=4" alt="MongoDB" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40"/>
   <img src="https://clickhouse.com/_next/static/media/logo-full.ac8102d5.svg" alt="ClickHouse" width="120"/>
   <img src="https://fastify.dev/img/logos/fastify-white.svg" alt="Fastify" width="100"/>
