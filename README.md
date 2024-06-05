@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://www.archlinux.org/static/logos/archlinux-logo-dark-scalable.518881f58a63.svg" alt="Arch Linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/archlinux/.github/main/profile/archlinux-logo-dark-scalable.svg" alt="Arch Linux" width="120"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/>
