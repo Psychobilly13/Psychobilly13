@@ -8,7 +8,7 @@
 
 
 <details>
-  <summary>v</summary>
+  <summary>Psychobilly</summary>
 
   ```javascript
   // psychobilly is rockabilly darkside
