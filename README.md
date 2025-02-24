@@ -19,7 +19,7 @@
   /**
    * Combines rockabilly and punk influences to create psychobilly.
    * 
-   * @returns {string} The resulting psychobilly sound.
+   * @returns {Object} The resulting psychobilly sound.
   */
   function rockabillyPsychosis() {
         const psychobilly = rockabilly + punk;
