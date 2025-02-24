@@ -16,9 +16,14 @@
   const rockabilly = require("./1950s.js");
   const punk = require("./1960s.js");
 
+  /**
+   * Combines rockabilly and punk influences to create psychobilly.
+   * 
+   * @returns {string} The resulting psychobilly sound.
+  */
   function rockabillyPsychosis() {
         const psychobilly = rockabilly + punk;
         return psychobilly;
-  }
+  };
 
   const purePsychobilly = rockabillyPsychosis();
