@@ -1,6 +1,7 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/archlinux/.github/main/profile/archlinux-logo-dark-scalable.svg" alt="Arch Linux" width="120"/>
 </p>
+
 <details>
   <summary>Psychobilly</summary>
 
