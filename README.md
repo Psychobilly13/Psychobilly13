@@ -3,7 +3,6 @@
 </p>
 
 
-
 <details>
   <summary>Psychobilly</summary>
 
