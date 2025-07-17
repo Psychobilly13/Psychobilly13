@@ -1,9 +1,7 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/archlinux/.github/main/profile/archlinux-logo-dark-scalable.svg" alt="Arch Linux" width="120"/>
+  <img src="https://montelibero.org/wp-content/uploads/2023/04/fspe_logo_3-05-200.png" alt="FSPE" width="60"/>
 </p>
-
-<p align="left">
-  <img src="https://montelibero.org/wp-content/uploads/2023/04/fspe_logo_3-05-200.png" alt="Arch Linux" width="60"/>
 </p>
 
 
