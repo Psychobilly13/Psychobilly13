@@ -24,7 +24,7 @@
 
   const purePsychobilly = rockabillyPsychosis();
   ```
-
+</details>
 <div>
   <a href="https://montelibero.org/" target="_blank">
     <img src="https://montelibero.org/wp-content/uploads/2023/04/fspe_logo_3-05-200.png"
