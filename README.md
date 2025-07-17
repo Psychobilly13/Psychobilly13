@@ -8,7 +8,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Logo_LPR.png/960px-Logo_LPR.png"
          alt="LPR"
          width="60"
-         style="display:inline-block; vertical-align:middle;"/>
+         style="margin-right: 10px; display:inline-block; vertical-align:middle;"
   </a>
 </p>
 
