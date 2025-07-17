@@ -3,7 +3,7 @@
 </p>
 
 <p align="left">
-  <img src="https://montelibero.org/wp-content/uploads/2023/04/fspe_logo_3-05-200.png" alt="Arch Linux" width="120"/>
+  <img src="https://montelibero.org/wp-content/uploads/2023/04/fspe_logo_3-05-200.png" alt="Arch Linux" width="60"/>
 </p>
 
 
