@@ -1,11 +1,12 @@
 <p align="left">
+  <a href="https://lp-russia.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Logo_LPR.png/960px-Logo_LPR.png"
+         alt="LPR"
+         width="60"
+  </a>
   <a href="https://montelibero.org/" target="_blank">
     <img src="https://montelibero.org/wp-content/uploads/2023/04/fspe_logo_3-05-200.png"
          alt="MTL"
-         width="60"
-  </a><img src="https://raw.githubusercontent.com/archlinux/.github/main/profile/archlinux-logo-dark-scalable.svg" alt="Arch Linux" width="120"/><a href="https://lp-russia.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Logo_LPR.png/960px-Logo_LPR.png"
-         alt="LPR"
          width="60"
   </a>
 </p>
