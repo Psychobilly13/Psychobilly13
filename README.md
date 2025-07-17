@@ -4,11 +4,7 @@
          alt="MTL"
          width="60"
          style="display:inline-block; vertical-align:middle;"/>
-  </a>
-</p>
-
-<p align="rigth">
-  <a href="https://lp-russia.org/" target="_blank">
+  </a><a href="https://lp-russia.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Logo_LPR.png/960px-Logo_LPR.png"
          alt="LPR"
          width="60"
