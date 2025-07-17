@@ -1,6 +1,6 @@
 <p align="left">
-  <img src="https://montelibero.org/wp-content/uploads/2023/04/fspe_logo_3-05-200.png" alt="MTL" width="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Logo_LPR.png/960px-Logo_LPR.png" alt="LPR" width="60"/>
+  <img href="https://lp-russia.org/" src="https://montelibero.org/wp-content/uploads/2023/04/fspe_logo_3-05-200.png" alt="MTL" width="60"/>
+  <img href="https://lp-russia.org/" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Logo_LPR.png/960px-Logo_LPR.png" alt="LPR" width="60"/>
 </p>
 
 <p align="left">
