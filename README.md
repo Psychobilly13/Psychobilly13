@@ -1,10 +1,9 @@
 <p align="left">
-  <p href="https://montelibero.org/" target="_blank" style="text-decoration: none;">
+  <a href="https://montelibero.org/" target="_blank" style="text-decoration: none;">
   <img src="https://montelibero.org/wp-content/uploads/2023/04/fspe_logo_3-05-200.png" alt="MTL" width="60"/>
-  </p>
-  <p href="https://lp-russia.org/" target="_blank" style="text-decoration: none;">
+  </a><a href="https://lp-russia.org/" target="_blank" style="text-decoration: none;">
   <img href="https://lp-russia.org/" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Logo_LPR.png/960px-Logo_LPR.png" alt="LPR" width="60"/>
-  </p>
+  </a>
 </p>
 
 <p align="left">
